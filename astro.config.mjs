@@ -8,5 +8,6 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 	site: 'https://Nao0430-wq.github.io',
 	base: '/80s-post-punk-blog',
+	trailingSlash: 'always',
 	integrations: [mdx(), sitemap()],
 });
