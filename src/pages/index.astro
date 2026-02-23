@@ -1,0 +1,35 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>🦇 Welcome to the Shadows</h1>
+			<p>
+				このブログは、1980年代を中心とした<strong>ポストパンク（Post-Punk）</strong>の世界と、そこから派生した様々な音楽的実験、ゴシック美学、そして隠れた名盤を探求するアーカイヴです。
+			</p>
+			<p>
+				Bauhausの暗黒美学、Wireの知的ミニマリズム、Gang of Fourの鋭角なカッティング。彼らが残した音楽は、現在もなお世界中のインディーシーンやアンダーグラウンド・カルチャーに深い影を落としています。
+			</p>
+			<p>このサイトでは以下を探求します:</p>
+			<ul>
+				<li><strong>伝説的バンドの軌跡:</strong> Bauhaus, The Cure, Siouxsie and the Banshees, Joy Divisionなど。</li>
+				<li><strong>知られざるサイドプロジェクト:</strong> Tones on Tail, Love and Rockets, Domeなど、彼らのもう一つの顔。</li>
+				<li><strong>隠れた名盤たち:</strong> The Sound, The Chameleons, Sad Lovers & Giantsなど、再評価されるべき美しきサウンド。</li>
+			</ul>
+			<p>
+				新しい記事は毎週更新されます。最新の更新情報は、<a href="https://twitter.com/">X (Twitter)</a>をチェックしてください。
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
