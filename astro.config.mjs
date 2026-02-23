@@ -7,6 +7,6 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://Nao0430-wq.github.io',
-	base: '80s-post-punk-blog',
+	base: '/80s-post-punk-blog',
 	integrations: [mdx(), sitemap()],
 });
