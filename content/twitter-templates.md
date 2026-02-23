@@ -36,7 +36,17 @@
 > 
 > #PostPunk #Bauhaus #Dub #Goth #80sMusic
 
+## 第3週 テンプレート: Siouxsie and the Bansheesの進化と革新
+> ポストパンクを語る上で外せない氷の女王達、「Siouxsie and the Banshees」。
+> 単なるパンクバンドから出発した彼らがいかにしてゴシック・ロックのプロトタイプを完成させたのか？
+> 
+> 第3回の記事では、カリスマ的なスージー・スーの魅力と、後世のギタリスト（ジョニー・マーやジョン・フルシアンテ等）に多大な影響を与えた天才「ジョン・マッギオーク」の革新的なギターワークに迫ります🦇
+> 
+> 🔗 [ここにブログ記事のURLを挿入 : 例 https://Nao0430-wq.github.io/80s-post-punk-blog/blog/article-3-siouxsie/]
+> 
+> #PostPunk #SiouxsieAndTheBanshees #Goth #JohnMcGeoch #80sMusic
+
 ## テンプレート更新予定
-- 第3回（Wire編）: 「ポストパンクのミニマリズム極北…」
-- 第4回（Gang of Four編）: 「鋭角カッティングギターと政治性…」
+- 第4回（Wire編）: 「ポストパンクのミニマリズム極北…」
+- 第5回（Gang of Four編）: 「鋭角カッティングギターと政治性…」
 - 第5回（The Sound編）: 「もっと評価されるべき隠れた名盤…」
