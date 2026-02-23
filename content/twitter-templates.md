@@ -46,7 +46,15 @@
 > 
 > #PostPunk #SiouxsieAndTheBanshees #Goth #JohnMcGeoch #80sMusic
 
+## 第4週 テンプレート: Magazineの誕生とポストパンクの知的爆発
+> パンクの限界にいち早く気付き、新たな地平を目指した知的な反逆児たち「Magazine」。
+> 元Buzzcocksのハワード・ディヴォートが結成し、若き日のジョン・マッギオークやバリー・アダムソンが才能を開花させたバンドです。
+> 
+> 第4回の記事では、初期ポストパンクの起爆剤となった彼らの冷ややかな情熱と、革新的なアンセム「Shot by Both Sides」の魅力に迫ります🎸
+> 
+> 🔗 [ここにブログ記事のURLを挿入 : 例 https://Nao0430-wq.github.io/80s-post-punk-blog/blog/article-4-magazine/]
+> 
+> #PostPunk #Magazine #HowardDevoto #JohnMcGeoch #80sMusic
+
 ## テンプレート更新予定
-- 第4回（Wire編）: 「ポストパンクのミニマリズム極北…」
-- 第5回（Gang of Four編）: 「鋭角カッティングギターと政治性…」
-- 第5回（The Sound編）: 「もっと評価されるべき隠れた名盤…」
+- 第5回（Gang of Four, Wire等の知的ポストパンク編）: 「ポストパンクのミニマリズム極北…」
